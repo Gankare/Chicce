@@ -1,2 +1,0 @@
-# Chicce
-Card Game
