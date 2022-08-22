@@ -1,0 +1,4 @@
+repository "Chicce"
+  path "/"
+    br "/main"
+    co "/main"
